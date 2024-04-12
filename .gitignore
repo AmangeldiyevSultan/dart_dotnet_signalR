@@ -1,4 +1,4 @@
 # https://dart.dev/guides/libraries/private-files
 # Created by `dart pub`
 .dart_tool/
-server_url.dart # This file contains the server URL for the app
+/server_url.dart # This file contains the server URL for the app
