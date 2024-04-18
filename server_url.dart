@@ -1,4 +1,4 @@
-const String kServerUrl = 'https://flagman.cityschool.kz/signalr-chat';
+const String kServerUrl = 'wss://flagman.cityschool.kz/signalr-chat';
 
 const String getAllFriends = 'getAllFriends';
 const String getWhatsAppMessage = 'getWhatsAppMessage';
